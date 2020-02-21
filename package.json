@@ -1,0 +1,23 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "这是金庸小说介绍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxiaohuan8/novel.git"
+  },
+  "keywords": [],
+  "author": "zhangxiaohuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangxiaohuan8/novel/issues"
+  },
+  "homepage": "https://github.com/zhangxiaohuan8/novel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
